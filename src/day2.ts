@@ -19,9 +19,8 @@ console.log(isStudent)
 // 3. Type Inference
 // TypeScript doesn't always require us to write the type.
 
-// let username = "Nethra";
-// let age = 25;
-// let isStudent = true;
+let username = "Nethra";
+let user_age = 25;
 
 
 // console.log(username)
@@ -29,7 +28,6 @@ console.log(isStudent)
 
 // username → string
 // age → number
-// isStudent → boolean
 // This is called Type Inference.
 
 // Example
@@ -128,10 +126,6 @@ let lastName: string = 'Kumar';
 //     name: string;
 //     age: number;
 // }[] = [
-//     {
-//         name: "Rahul",
-//         age: 22
-//     },
 //     {
 //         name: "Anu",
 //         age: 23
@@ -340,9 +334,3 @@ let lastName: string = 'Kumar';
 // Accept age as a number and print:
 // Eligible
 // if age is 18 or above.
-
-
-
-// TypeScript allows us to describe what type of data 
-// our variables, arrays, tuples, and functions are expected to contain,
-//  giving us errors during development before the code runs.
