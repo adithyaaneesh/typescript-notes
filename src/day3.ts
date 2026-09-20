@@ -223,31 +223,3 @@
 // 1. Create a function that accepts two numbers and returns their difference.
 // 2. Create a function that accepts a person's name and returns a greeting.
 // 3. Check whether a number is even.
-
-
-// 23.Workout
-
-// Create a function that accepts two numbers and returns their sum.
-// Create a function that returns the square of a number.
-// Create a function that accepts a name and returns "Hello <name>".
-// Create a function that checks whether a number is positive.
-// Create a function that checks whether a person is eligible to vote.
-// Create a function that returns the largest of two numbers.
-// Create a function that converts Celsius to Fahrenheit.
-// Create a function that calculates the area of a rectangle.
-// Create a function that calculates the perimeter of a rectangle.
-// Create a function that accepts a string and returns its length.
-
-// Optional/default parameters
-// Create a greet() function with an optional name.
-// Create a function with a default country value of "India".
-// Create a function that accepts name and optional age.
-// Create a function that accepts a default discount of 10.
-// Create a function that calculates price after discount.
-
-// Arrow functions
-// Create an arrow function to add two numbers.
-// Create an arrow function to multiply two numbers.
-// Create an arrow function to check whether a number is odd.
-// Create an arrow function to convert a string to uppercase.
-// Create an arrow function to check whether a student passed.
