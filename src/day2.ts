@@ -8,19 +8,19 @@
 // Type annotation means explicitly telling TypeScript what 
 // type of value a variable should contain.
 
-let name: string = "Rahul";
-let age: number = 22;
-let isStudent: boolean = true;
+// let name: string = "Rahul";
+// let age: number = 22;
+// let isStudent: boolean = true;
 
-console.log(name)
-console.log(age)
-console.log(isStudent)
+// console.log(name)
+// console.log(age)
+// console.log(isStudent)
 
 // 3. Type Inference
 // TypeScript doesn't always require us to write the type.
 
-let username = "Nethra";
-let user_age = 25;
+// let username = "Nethra";
+// let user_age = 25;
 
 
 // console.log(username)
@@ -69,8 +69,8 @@ let user_age = 25;
 // It works, but in modern TypeScript/JavaScript, prefer: let & const instead of var.
 
 // 6. String
-let firstName: string = "Rahul";
-let lastName: string = 'Kumar';
+// let firstName: string = "Rahul";
+// let lastName: string = 'Kumar';
 
 // or template literals: `Hello`
 
