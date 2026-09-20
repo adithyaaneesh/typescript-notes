@@ -1,4 +1,3 @@
-// TypeScript — Day 3
 // Functions, Parameters, Return Types & Arrow Functions
 
 // 1. Syntax
